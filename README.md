@@ -1,7 +1,7 @@
 # train val detect
 
-python train.py 
-python val.py 
+python train.py /
+python val.py /
 python detect.py
 
 Paths related to models, data, etc. need to be modified before executing the programme.
