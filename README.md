@@ -1,3 +1,6 @@
+# introduction
+This is based on YOLOv3 to construct OD-based CD framework. All our code will be published later.
+
 # train val detect
 
 python train.py 
